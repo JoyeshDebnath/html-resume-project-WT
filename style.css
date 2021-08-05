@@ -1,0 +1,176 @@
+*{
+    max-width:100%;
+    margin:auto ;
+    box-sizing: border-box;   
+    
+}
+#JD{
+font-size:40px;
+letter-spacing:3px;
+}
+
+#kiit{
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+#ten {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#header{
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #7209B7;
+    padding-top: 10px;
+    font-weight: 600;
+}
+
+#stuffs{
+    position: relative;
+    margin-top:10px;
+    width: 100%;
+    height: 15rem;
+    background-color: #BFD7EA;
+    
+}
+#main{
+    width: 100%;
+    height: 114rem;
+    margin-top:10px;
+    background-color: #F2EFE9;
+}
+
+#A{
+    font-size:20px;
+    color: red;
+}
+#my_photo{
+  max-width: 100%;
+  max-height: 100%;
+} 
+
+#left-pannel {
+    left: 0;
+    position: absolute;
+    display: inline-block;
+    width: 70%;
+    height: 100%;
+    padding-top: 2rem;
+    /* background-color: #7389AE; */
+}
+
+#pr{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-decoration: underline;
+}
+#right-pannel {
+    position:absolute;
+   
+    right:0;
+    display: inline-block;
+    width: 30%;
+    height: 100%;
+   
+    /* background-color: #7389AE; */
+}
+#lang{
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+#hello{
+  font-size:60px;
+  text-decoration: underline;
+  margin-bottom:8px;
+}
+p{
+    font-size:20px;
+}
+#s1{
+  color:#575D90
+}
+
+#h{
+    text-decoration: underline;
+    margin-bottom: 10px;
+}
+#about{
+    margin-bottom: 10px;
+}
+
+#hobbies{
+    margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+#hobbies li{
+    font-weight: 400;
+    font-size: 25px;
+}
+
+#left-pannel,li{
+line-height:50px;
+font-weight: 800;
+font-size:30px;
+}
+span{
+    color: #416788;
+}
+
+
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    font-weight: 500;
+    font-size:20px;
+}
+
+td,
+th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+#contact{
+    text-align: center;
+}
+
+#footer{
+    margin-top: 2rem;
+    width: 100%;
+    height: 16rem;
+    background-color: #020100;
+
+}
+
+#fh{
+    color: white;
+    text-align: center;
+}
+
+#footer li a{
+    color: #2A628F;
+}
+#sign-img{
+    height:80%;
+    width:30%;
+}
+#sign{
+    /* margin-top: 30px;
+    margin-bottom: 30px; */
+    margin-left: 30%;
+    height: 5rem;
+    width: 100%;
+  
+}
